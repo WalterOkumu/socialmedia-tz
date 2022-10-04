@@ -7,7 +7,7 @@ const Top = () => {
     return (
         <div className="pl-20">
             <div className="flex flex-row">
-                <div className="w-1/2 p-40">
+                <div className="w-1/2 pl-40">
                     <h1 className="text-5xl w-[20rem] "><strong>Gestão de redes sociais</strong></h1> 
 
                     <p className="mt-4 mb-4 w-96 text-3xl text-justify italic">
