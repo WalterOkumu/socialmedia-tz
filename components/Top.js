@@ -10,7 +10,7 @@ const Top = () => {
                 <div className="md:w-1/2 w-full">
                     <h1 className="text-5xl font-bold md:w-[20rem] ">Gestão de redes sociais</h1> 
                     <p className="mt-4 mb-4 w-96 text-3xl font-thin">
-                       Escolha o melhor plano para a sua empresa com o <span className="font-bold italic"> melhor desconto </span>. 
+                       Choose the best plan for your business <span className="font-bold italic"> best promotionssss</span>. 
                     </p>
                     <p className="mb-4 w-96 text-justify font-medium" >
                         A presença online é muito mais do que ter um website na internet:
