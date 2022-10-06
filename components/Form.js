@@ -3,11 +3,11 @@ const Form = () => {
 
     return (
      <div className="mt-40 mx-auto md:w-2/4 px-5">
-        <h3 className="text-center text-3xl font-bold"> Preencha os campos abaixo para obter gratuitamente a informação desejada</h3>
+        <h3 className="text-center text-3xl font-bold">Fill in the fields below to obtain the desired information free of charge</h3>
 
         <form className="flex flex-col justify-center items-center mt-10">
             <div>
-                <label className="font-medium text-sm">Nome: </label>
+                <label className="font-medium text-sm">Name: </label>
                 <input type="text" className="border-[1px] border-neutral-500 w-96 rounded mb-3"></input>
             </div>
 
@@ -17,7 +17,7 @@ const Form = () => {
             </div>
 
             <div className="mr-3">
-                <label className="font-medium text-sm">Empresa: </label>
+                <label className="font-medium text-sm">Company: </label>
                 <input type="text" className="border-[1px] border-neutral-500 w-96 rounded"></input>
             </div>
 
