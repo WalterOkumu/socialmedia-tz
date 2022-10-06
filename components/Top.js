@@ -5,13 +5,12 @@ const Top = () => {
     const media = "/social-media.png";
 
     return (
-        <div className="pl-20">
-            <div className="flex flex-row">
-                <div className="w-1/2 p-40">
-                    <h1 className="text-5xl w-[20rem] "><strong>Gestão de redes sociais</strong></h1> 
-
-                    <p className="mt-4 mb-4 w-96 text-3xl text-justify italic">
-                       Escolha o melhor plano para a sua empresa com o <strong> melhor desconto </strong>. 
+        <div className="mx-auto max-w-6xl">
+            <div className="flex md:flex-row flex-col-reverse gap-16 md:mt-20">
+                <div className="md:w-1/2 w-full">
+                    <h1 className="text-5xl font-bold md:w-[20rem] ">Gestão de redes sociais</h1> 
+                    <p className="mt-4 mb-4 w-96 text-3xl font-thin">
+                       Escolha o melhor plano para a sua empresa com o <span className="font-bold italic"> melhor desconto </span>. 
                     </p>
                     <p className="mb-4 w-96 text-justify font-medium" >
                         A presença online é muito mais do que ter um website na internet:
@@ -24,7 +23,7 @@ const Top = () => {
                     </p>
                 </div>
 
-                <div className="w-1/2">
+                <div className="md:w-1/2 w-full">
                     <Image src={media} width={1090} height={1000} className=""/>
                 </div>
             </div>
