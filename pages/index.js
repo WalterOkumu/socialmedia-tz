@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Cards from '../components/cards'
+import Cards from '../components/Cards'
 import Descontos from '../components/Descontos'
 import Form from '../components/Form'
 import Header from '../components/Header'
