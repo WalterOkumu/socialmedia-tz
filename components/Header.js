@@ -5,7 +5,7 @@ const Header = () => {
 
     return (
         <header className="grid pl-24 md:pr-16 md:pl-10 justify-items-end">
-            <Image src={logo} width={50} height={50} className="justify-right" />
+            <Image src={logo} width={50} height={50} className="justify-right" alt="Logo"/>
         </header>
     )
 };
