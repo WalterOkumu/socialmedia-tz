@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Top = () => {
 
-    const media = "/social-media.png";
+    const media = "/black-friday.png";
 
     return (
         <div className="mx-auto max-w-6xl">
