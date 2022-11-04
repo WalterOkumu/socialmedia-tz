@@ -9,8 +9,8 @@ const Top = () => {
             <div className="flex md:flex-row flex-col-reverse gap-16">
                 <div className="md:w-1/2 w-full md:mt-24">
                     <h1 className="text-5xl font-bold md:w-[20rem]">Social Network Management</h1> 
-                    <p className="mt-4 mb-4 md:w-96 text-3xl font-thin">
-                       Choose your best plan for your company with the <span className="font-bold italic"> best discount.</span>. 
+                    <p className="mt-4 mb-4 md:w-96 text-3xl font-light italic">
+                       Enjoy<span className="font-bold"> 30% OFF</span> until the end of the year!
                     </p>
                     <p className="mb-4 md:w-96 text-justify font-medium">
                        Manage your Social Networks by producing content according to a pre-established guideline and schedule to increase and retain your number of online followers. 
@@ -20,7 +20,7 @@ const Top = () => {
                     </p>
                 </div>
 
-                <Image src={media} width={640} height={640} alt="People" className="objecct-contain md:w-1/2 w-full"/>
+                <Image src={media} width={1090} height={1000} alt="Black Friday" className="object-contain md:w-1/2 w-full"/>
             </div>
         </div>
     )
