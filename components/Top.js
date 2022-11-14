@@ -8,15 +8,15 @@ const Top = () => {
         <div className="mx-auto max-w-6xl">
             <div className="flex md:flex-row flex-col-reverse gap-16 text-[#f8f8ff]">
                 <div className="md:w-1/2 w-full md:mt-24">
-                    <h1 className="text-5xl font-bold md:w-[30rem]">Social Network Management</h1> 
+                    <h1 className="text-5xl font-bold md:w-[30rem]">Usimamizi wa Mtandao wa Kijamii</h1> 
                     <p className="mt-4 mb-4 md:w-96 text-3xl font-light italic">
-                       What do we promise? More than likes, <span className="font-bold">strategic management of your social networks!</span>
+                       Tunaahidi nini? Zaidi ya likes za facebook, <span className="font-bold">usimamizi wa kimkakati wa mitandao yako ya kijamii!</span>
                     </p>
                     <p className="mb-4 md:w-96 text-justify font-medium">
-                       Manage your Social Networks by producing content according to a pre-established guideline and schedule to increase and retain your number of online followers. 
+                       Dhibiti Mitandao yako ya Kijamii kwa kutoa maudhui kulingana na mwongozo na ratiba iliyowekwa mapema ili kuongeza na kuhifadhi idadi yako ya wafuasi mtandaoni.
                     </p>
                     <p className="mb-4 md:w-96 text-justify font-medium">
-                       Inform and educate online followers about; your services and products, mission, vision, principles, and values to increase your website traffic 
+                       Wajulishe na waelimishe wafuasi mtandaoni kuhusu; huduma na bidhaa zako, dhamira, maono, kanuni na maadili ili kuongeza trafiki ya Tovuti yako.
                     </p>
                 </div>
 
