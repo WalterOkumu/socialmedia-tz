@@ -2,8 +2,8 @@
 const Form = () => {
 
     return (
-     <div className="mt-28 mx-auto md:w-2/4 px-5">
-        <h3 className="text-center text-3xl font-bold mb-8">
+     <div>
+        <h3 className=" text-3xl font-bold mb-8 p-12 pb-0">
             Jaza sehemu zilizo hapa chini ili kupata maelezo unayotaka bila malipo
         </h3>
 
