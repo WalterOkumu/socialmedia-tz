@@ -1,15 +1,12 @@
+export default function ContactForm() {
+    return(
+        <div className="mt-24">
+            <h3 className="md:text-center pl-5 md:p-0">
+            Jaza sehemu zilizo hapa chini ili kupata maelezo unayotaka bila malipo
+        </h3>
 
-const Form = () => {
-
-    return (
-     <div className="pb-20">
-        <h1 className=" text-4xl font-bold mb-8 md:p-12 md:pb-0 pb-4">
-            Tunaahidi nini? Zaidi ya likes za facebook, usimamizi wa kimkakati wa mitandao yako ya kijamii!
-        </h1>
-        <h3 className="md:pl-11 "> Jaza sehemu zilizo hapa chini ili kupata maelezo unayotaka bila malipo </h3>
-
-            <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
-                    <div className="ml-form-align-center ">
+        <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
+                    <div className="ml-form-align-center">
                         <div className="ml-form-embedWrapper embedForm">
                         <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
                             <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
@@ -48,10 +45,6 @@ const Form = () => {
                         </div>
                     </div>
             </div>
-
-    </div>
-
-    );
+        </div>
+    )
 }
-
-export default Form;
