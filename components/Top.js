@@ -8,7 +8,7 @@ const Top = () => {
 
     return (
         <div className="mx-auto max-w-6xl">
-            <div className="flex md:flex-row flex-col-reverse gap-4 md:gap-18 md:mt-20 text-[#f8f8ff] items-center">
+            <div className="flex md:flex-row flex-col-reverse gap-4 md:gap-18 md:mt-16 text-[#f8f8ff] items-center">
                 <div className="md:w-1/2 w-full">
                     <Form/>
                 </div>
