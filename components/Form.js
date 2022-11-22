@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="pb-20">
         <h1 className=" text-4xl font-bold mb-8 md:p-12 md:pb-0 pb-4 text-[#FDEA03]">
-            Tunaahidi nini? Zaidi ya likes za facebook, usimamizi wa kimkakati wa mitandao yako ya kijamii!
+            Tunaahidi nini? Zaidi ya likes za Face book, usimamizi wa kimkakati wa mitandao yako ya kijamii! 
         </h1>
         <h3 className="md:pl-11 "> Jaza sehemu zilizo hapa chini ili kupata maelezo unayotaka bila malipo </h3>
 
