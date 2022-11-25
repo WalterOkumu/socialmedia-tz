@@ -2,7 +2,7 @@
 const Form = () => {
 
     return (
-     <div className="md:mt-20 mt-14 mx-auto md:w-2/4 px-5 mb-10">
+     <div className="md:mt-4 mt-14 mx-auto md:w-2/4 px-5 mb-10">
         <h2 className="text-left md:text-5xl text-4xl font-bold mb-8 text-[#FDEA03]"> Tunaahidi nini? Zaidi ya likes za Face book, usimamizi wa kimkakati wa mitandao yako ya kijamii! </h2> 
         <h3 className="text-left mb-4">Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo</h3>
 

@@ -13,7 +13,7 @@ import ContactForm from '../components/ContactForm'
 export default function Home() {
   return (
     <div>
-        <div className='pt-8 md:h-screen px-10 bg-[#181818]'>
+        <div className='pt-4 md:h-screen px-10 bg-[#181818]'>
          <Header></Header>
          <Top></Top>
         </div>
