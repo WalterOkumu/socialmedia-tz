@@ -2,14 +2,12 @@
 const Form = () => {
 
     return (
-     <div className="pb-20">
-        <h1 className=" text-4xl font-bold mb-8 md:p-12 md:pb-0 pb-4 text-[#FDEA03]">
-            Tunaahidi nini? Zaidi ya likes za Face book, usimamizi wa kimkakati wa mitandao yako ya kijamii! 
-        </h1>
-        <h3 className="md:pl-11 "> Jaza sehemu zilizo hapa chini ili kupata maelezo unayotaka bila malipo </h3>
+     <div className="md:mt-20 mt-14 mx-auto md:w-2/4 px-5 mb-10">
+        <h2 className="text-left md:text-5xl text-4xl font-bold mb-8 text-[#FDEA03]"> Tunaahidi nini? Zaidi ya likes za Face book, usimamizi wa kimkakati wa mitandao yako ya kijamii! </h2> 
+        <h3 className="text-left mb-4">Jaza sehemu zilizo hapa chini ili kupata habari unayotaka bila malipo</h3>
 
             <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
-                    <div className="ml-form-align-center ">
+                    <div className="ml-form-align-center">
                         <div className="ml-form-embedWrapper embedForm">
                         <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
                             <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
@@ -33,7 +31,7 @@ const Form = () => {
                             </div>
                             <input type="hidden" name="ml-submit" value="1" />
                             <div className="ml-form-embedSubmit">
-                                <button type="submit" className="primary">Wasilisha</button>
+                                <button type="submit" className="primary">Submit</button>
                                 <button disabled="disabled" style={{display:'none'}} type="button" className="loading"> <div className="ml-form-embedSubmitLoad"></div> <span className="sr-only">Loading...</span> </button>
                             </div>
                             <input type="hidden" name="anticsrf" value="true" />
