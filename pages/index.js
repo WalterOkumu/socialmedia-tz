@@ -13,7 +13,7 @@ import ContactForm from '../components/ContactForm'
 export default function Home() {
   return (
     <div>
-        <div className='pt-4 md:h-screen px-10 bg-[#181818]'>
+        <div className="pt-4 md:h-screen px-10 bg-no-repeat bg-cover bg-center bg-[url('../public/background-hero-mobile.png')] xl:bg-[url('../public/background-hero.png')]">
          <Header></Header>
          <Top></Top>
         </div>

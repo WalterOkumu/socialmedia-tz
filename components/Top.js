@@ -11,7 +11,7 @@ const Top = () => {
                 
                 <Form />
                 <div className="md:w-1/2 w-full self-center">
-                    <Image src={media} width={1090} height={1000} alt="Black Friday" className="object-contain "/>
+                    {/*<Image src={media} width={1090} height={1000} alt="Black Friday" className="object-contain "/>*/}
                 </div>
             </div>
         </div>
